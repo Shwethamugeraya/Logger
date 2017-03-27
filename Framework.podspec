@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
     LICENSE
   }
     s.author       = { 'McDonalds' => 'Sapient' }
-    s.platform     = :ios, '10.0'
+    s.platform     = :ios, '9.0'
     s.source       = { :git => 'https://github.com/Shwethamugeraya/Logger.git',
                        :tag => s.version}
     s.requires_arc = true
